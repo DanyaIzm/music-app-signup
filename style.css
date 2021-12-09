@@ -192,4 +192,9 @@
   .container {
     padding-top: 65%;
   }
+
+  .left_bg {
+    left: -10%;
+    bottom: -15%;
+  }
 }
